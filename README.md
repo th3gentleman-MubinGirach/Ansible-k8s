@@ -12,4 +12,4 @@
 
 #🔅 Expose the wordpress pod and client able hit the wordpress ip with its respective port.
 
-Reference Video <a href="[(https://drive.google.com/file/d/1d0CZxm73LdXGi-v99QgSBBE7u0Hca6t2/view?usp=sharing)>Click here!>
+Reference Video <a href="<a href="[https://www.w3schools.com](https://drive.google.com/file/d/1d0CZxm73LdXGi-v99QgSBBE7u0Hca6t2/view?usp=sharing)">Visit W3Schools.com!</a>!>
