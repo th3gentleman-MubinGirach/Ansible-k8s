@@ -11,5 +11,6 @@
 #🔅 Launch a wordpress and mysql database connected to it in the respectine slaves. 
 
 #🔅 Expose the wordpress pod and client able hit the wordpress ip with its respective port.
+For Reference Video
 
-<a href="https://drive.google.com/file/d/1d0CZxm73LdXGi-v99QgSBBE7u0Hca6t2/view?usp=sharing">Clich here</a>
+<a href="https://drive.google.com/file/d/1d0CZxm73LdXGi-v99QgSBBE7u0Hca6t2/view?usp=sharing">Click here</a>
